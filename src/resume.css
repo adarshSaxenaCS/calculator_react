@@ -1,0 +1,70 @@
+.main-container{
+    margin: 10px;
+    border: 1px solid rgb(41, 37, 37);
+    margin: 10px;
+    padding: 10px;
+    width: 900px;
+    justify-self: center;
+}
+.container{
+    justify-content: center;
+    margin-left: 290px;
+}
+
+.strong{
+    text-align: end;
+    margin-top: -77px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+h2{
+    margin-bottom: 0px;
+}
+
+hr {
+            border: none;
+            height: 3px;
+            background: rgb(113, 110, 110);
+            margin-bottom: 3px;
+            margin-top: -12px;
+}
+
+h4 {
+    margin-left: 23px;
+    margin-top: 10px;
+    margin-bottom: -10px;
+
+}
+
+ul{
+    padding-bottom: 10px;
+    padding-top: -9px;
+}
+
+
+.education{
+
+}
+
+.career-objective{
+
+}
+
+.skills{
+
+}
+
+.work-experience ul {
+margin-bottom: -10px;
+}
+ 
+
+.projects ul{
+margin-bottom: -10px;
+}
+
+.certificates{
+
+}
